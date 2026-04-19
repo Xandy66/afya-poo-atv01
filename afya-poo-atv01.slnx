@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Ex01_Lampada/Ex01_Lampada.csproj" />
+  <Project Path="Ex02_Cofre/Ex02_Cofre.csproj" />
+  <Project Path="Ex03_Conta/Ex03_Conta.csproj" />
+  <Project Path="Ex04_RPG/Ex04_RPG.csproj" />
+</Solution>
